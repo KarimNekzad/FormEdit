@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FormEdit/static/css/main.b1ab559e.chunk.css",
+    "main.js": "/FormEdit/static/js/main.7f2be11d.chunk.js",
+    "main.js.map": "/FormEdit/static/js/main.7f2be11d.chunk.js.map",
+    "runtime-main.js": "/FormEdit/static/js/runtime-main.c8159ab3.js",
+    "runtime-main.js.map": "/FormEdit/static/js/runtime-main.c8159ab3.js.map",
+    "static/js/2.d8115e5f.chunk.js": "/FormEdit/static/js/2.d8115e5f.chunk.js",
+    "static/js/2.d8115e5f.chunk.js.map": "/FormEdit/static/js/2.d8115e5f.chunk.js.map",
+    "static/js/3.50194623.chunk.js": "/FormEdit/static/js/3.50194623.chunk.js",
+    "static/js/3.50194623.chunk.js.map": "/FormEdit/static/js/3.50194623.chunk.js.map",
+    "index.html": "/FormEdit/index.html",
+    "static/css/main.b1ab559e.chunk.css.map": "/FormEdit/static/css/main.b1ab559e.chunk.css.map",
+    "static/js/2.d8115e5f.chunk.js.LICENSE.txt": "/FormEdit/static/js/2.d8115e5f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8159ab3.js",
+    "static/js/2.d8115e5f.chunk.js",
+    "static/css/main.b1ab559e.chunk.css",
+    "static/js/main.7f2be11d.chunk.js"
+  ]
+}
