@@ -1,38 +1,54 @@
-.App {
-  text-align: center;
+/* Global Styles */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  color: #333333;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.container {
+  width: 80%;
+  margin: auto;
+  margin-top: 150px;
+  margin-left: 300px;
+  text-align: left;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* Local Styles */
+
+.container label {
+  margin-right: 5px;
+  font-size: 35px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.container input {
+  font-size: 35px;
+  display: block;
 }
 
-.App-link {
-  color: #61dafb;
+.name h1 {
+  font-size: 60px;
+  display: inline;
+  margin-right: 50px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+/* Buttons */
+.button {
+  border: 1px solid #dddddd;
+  background-color: white;
+  color: #333333;
+  font-size: 30px;
+  padding: 12px 20px;
+  border-radius: 8px;
+  transition: 0.1s ease-in;
+  outline: none; /*remove chrome black outline*/
+  
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+.button:hover {
+  color: dodgerblue;
+  border-color: white;
+  box-shadow: 0 0 0 1px rgb(124, 189, 255);
+  cursor: pointer;
 }
